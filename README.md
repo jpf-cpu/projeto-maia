@@ -44,5 +44,4 @@ def main():
     mensagem_motivacional()
     mantra_do_dia()
 
-if __name__ == "__main__":
-    main()
+if __name__ == "__main__"
