@@ -1,14 +1,3 @@
-def saudacao(nome):
-    return f"Olá, {nome}! Seja bem-vindo ao Projeto Maia."
-def main():
-    nome = "João Paulo"
-    print(saudacao(nome))
-    resultado = somar(10, 20)
-    print(f"A soma de 10 + 20 é: {resultado}")
-    mensagem_motivacional()
-    mantra_do_dia()
-if __name__ == "__main__":
-    main()
 import random
 
 def saudacao(nome):
